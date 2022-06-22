@@ -1,0 +1,38 @@
+.container{
+    padding-top: 4rem;
+}
+.card {
+    height:320px;
+    margin-bottom: 1rem;
+}
+.card-body{
+    text-align: center;
+}
+.details{
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    background-color: rgb(91, 81, 227);
+    text-align: center;
+    color: whitesmoke;
+}
+.details:hover{
+    color:rgb(91, 81, 227);
+    background-color: whitesmoke;
+    border: 1px solid rgb(91, 81, 227);
+}
+
+.btn
+{
+  margin: .5rem;
+  padding: .5rem 2rem;
+  font-size: 1.4em;
+  background: rgb(91, 81, 227);
+  color: whitesmoke;
+  border: 1px solid rgb(91, 81, 227);
+}
+
+.btn:hover 
+{
+  background: whitesmoke;
+  color: rgb(91, 81, 227);
+}
